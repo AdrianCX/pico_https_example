@@ -1,0 +1,3 @@
+[submodule "pico_https"]
+	path = pico_https
+	url = https://github.com/AdrianCX/pico_https
